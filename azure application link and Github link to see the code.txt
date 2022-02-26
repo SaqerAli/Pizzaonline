@@ -1,0 +1,2 @@
+Application azure link: https://saqeronlinepizzawebapplication20220226180340.azurewebsites.net/
+Github link: https://github.com/SaqerAli/Pizzaonline.git
